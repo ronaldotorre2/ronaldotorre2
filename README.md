@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronaldotorre2
 - 👀 I’m interested in technology
 - 🌱 I currently work with .net, java and nodejs
-- 💞️ I’m looking to collaborate on open source
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me e-mail ronaldo.torre@outlook.com
 
 <!---
