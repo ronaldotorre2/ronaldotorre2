@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ronaldotorre2
+- 👋 Hi, I’m Ronaldo Torre
 - 👀 I’m interested in technology
-- 🌱 I currently work with .net, java and nodejs
+- 🌱 I'm a systems analyst developer and currently work with .net, java and nodejs
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me e-mail ronaldo.torre@outlook.com
 
